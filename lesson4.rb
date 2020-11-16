@@ -1,2 +1,2 @@
-name = "加藤一隼"
+name = "加藤一隼です"
 puts name

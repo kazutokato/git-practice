@@ -1,5 +1,5 @@
-webcamp = "プログラミング学習"
+webcamp = "オンラインプログラミング学習"
 puts webcamp
 
-webcamp = "オンラインプログラミング学習"
+webcamp = "プログラミング学習"
 puts webcamp
