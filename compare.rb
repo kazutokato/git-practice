@@ -7,3 +7,6 @@ if total >= 150
   puts "合計は150以上です。"
 end
 
+if total <= 100
+  puts "合計は100以下です。"
+end

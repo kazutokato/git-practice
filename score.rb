@@ -1,9 +1,9 @@
-score = 70
+score = 65
 
 if score >= 50 || score && score >= 80
   puts "得点は50点以上または100点以下で、かつ80以上です。"
 elsif score <= 100 && score && score >= 80
-  puts "特典はまたは100点以下で、かつ80点以上です。"
+  puts "得点は100点以下で、かつ80点以上です。"
 end 
   
 if score >= 50 
